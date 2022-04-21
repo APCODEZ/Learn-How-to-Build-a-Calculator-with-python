@@ -1,6 +1,10 @@
 #Print hello world in python!
 print("Hello world")
 
+#Welcoming the user
+print("Welcome to the simple calculator.")
+
+
 #Getting inputs from the user:
 
 #Getting our first number from the user (no1):
